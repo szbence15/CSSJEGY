@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-table, th, td {
+table, tr, td {
     border: none rgb(153, 139, 139);
     border-spacing: 2px;
     float: inline-end;

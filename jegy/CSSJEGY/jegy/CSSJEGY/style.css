@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    color: black;
+    text-align: center;
+}
+
+table, th, td {
+    border: none rgb(153, 139, 139);
+    border-spacing: 2px;
+    float: inline-end;
+    width: 670px;
+  }

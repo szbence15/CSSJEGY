@@ -1,7 +1,6 @@
 body {
-    background-color: grey;
+    background-color:white;
     color: black;
-    text-align: center;
 }
 
 table, tr, td {
@@ -9,4 +8,18 @@ table, tr, td {
     border-spacing: 2px;
     float: inline-end;
     width: 670px;
+    background-color: rgb(#485808 );
   }
+#elso {
+    border: none;
+    width: 650px;
+    position: absolute;
+    border-spacing: 2px;
+    border-color: rgb(#485808 );
+    width: 60px;
+    float: inline-end;
+}
+a {
+    text-align: center;
+    float:inline-end
+}

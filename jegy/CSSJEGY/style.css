@@ -1,0 +1,11 @@
+body {
+    background-color: grey;
+    color: black;
+}
+
+table, th, td {
+    border: 670px solid black;
+    border-spacing: 2px;
+    margin-top: auto;
+    position: relative;
+  }
